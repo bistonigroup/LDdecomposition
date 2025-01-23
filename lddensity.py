@@ -3,7 +3,7 @@
 
 License: MIT License
 
-Credits: If you use this code, please cite the work ###
+Credits: If you use this code, please cite the work "J. Chem. Theory Comput. 2024, 20, 5, 1923–1931; DOI: 10.1021/acs.jctc.3c00977"
 
 Description: This script computes the atomic contributions to the London dispersion energy as well as the London dispersion density function based on the D3 dispersion correction, as described in Ref. ####
 
