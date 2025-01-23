@@ -3,9 +3,9 @@
 
 License: MIT License
 
-Credits: If you use this code, please cite the work ###
+Credits: If you use this code, please cite the work "J. Chem. Theory Comput. 2024, 20, 5, 1923–1931; DOI: 10.1021/acs.jctc.3c00977"
 
-Description: This script computes the London Dispersion density difference function, which is described in Ref. ###
+Description: This script computes the London Dispersion density difference function, which is described in "J. Chem. Theory Comput. 2024, 20, 5, 1923–1931; DOI: 10.1021/acs.jctc.3c00977"
 
 As input file only the "{basename}.atomwise.txt" is needed.  This contains the spatial coordinates of a chemical system in XYZ format and, as a 5th column, the difference between the atomic LD energy of each atom minus that obtained for a different molecular structure.  
 For example, the atomic LD energies can be obtained using the lddensity.py tool. However, this tool can be used in principle in conjuction with any arbitrary atom-wise decomposition scheme.
